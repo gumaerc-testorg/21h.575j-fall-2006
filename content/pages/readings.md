@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 3b145e91-ed8c-2ddf-2e73-b8437ff28967
 ---
@@ -49,7 +52,7 @@ READINGS AND FILMS
 {{< tdopen >}}
 Writing South Asian women's history
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 
 
 Mohanty, Chandra Talpade. "Under Western Eyes: Feminist Scholarship and Colonial Discourse." In _Third World Women and the Politics of Feminism_. Edited by Chandra Talpade Mohany, Ann Russo, and Lourdes Torres. Bloomington, IN: Indiana University Press,1991. ISBN: 9780253206329.
@@ -95,7 +98,7 @@ Library tour
 {{< tdopen >}}
 Women as mothers, daughters, and daughters in law
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 
 
 Selections from The Laws of Manu. Translated by Wendy Doniger O'Flaherty and Brian K. Smith. New York, NY: Penguin Books, 1991. ISBN: 9780140445404.
@@ -149,7 +152,7 @@ Divinities and devotees
 {{< tdopen >}}
 Defining women: Social reforms
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="4" >}}
 
 
 Selections from Bentinck's [Minute on the Suppression of Sati](http://chnm.gmu.edu/wwh/p/103.html), 1829.
@@ -210,7 +213,7 @@ Gender and law in colonial India
 {{< tdopen >}}
 The good wife and mother
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 
 
 Hossein, Rokeya Shakhawat. "Sultana's Dream." In _Sultana's Dream: A Feminist Utopia and Selections from The Secluded Ones_. Edited and translated by Roushan Jahan. Reprint ed. New York, NY: Feminist Press, 1988. ISBN: 9780935312836.
@@ -264,7 +267,7 @@ Women's work and working women
 {{< tdopen >}}
 Gandhi and women
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 
 
 Selections from Mayo, Katherine. _Mother India_. Ann Arbor, MI: University of Michigan Press, 2000. ISBN: 9780472067152. Please see [study materials]({{< baseurl >}}/pages/study-materials) for discussion questions related to this reading.
@@ -310,7 +313,7 @@ Organizations and activism in colonial India
 {{< tdopen >}}
 Partitioned nations, partitioned bodies
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 
 
 Select stories from Manto, Sa'ādat Hasan. _Kingdom's End and Other Stories._ Translated by Khalid Hasan. New York, NY: Verso, 1988. ISBN: 9780860911838.
@@ -360,12 +363,12 @@ Personal law vs. uniform civil code
 {{< tdopen >}}
 Era of women leader
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 
 
 Anderson, Nancy Fix. "Benazir Bhutto and Dynastic Politics: Her Father's Daughter, Her People's Sister." In _Women as National Leaders_. Edited by Michael A. Genovese. Newbury Park, CA: Sage Publications, 1992, pp. 41-69. ISBN: 9780803943384.
 
-Khan, Nighat Said. "Up against the state: The women's movement in Pakistan and its implications for the global women's movement." ([PDF](http://www.globalissues.org/article/166/womens-rights))#  
+Khan, Nighat Said. "Up against the state: The women's movement in Pakistan and its implications for the global women's movement." ([PDF](http://www.globalissues.org/article/166/womens-rights)){{< sup "#" >}}  
 Available from the Centre for Women's Studies in Education at the Ontario Institute for Studies in Education, University of Toronto.
 
 Basu, Amrita. "Feminism Inverted: The Real Women and Gendered Imagery of Hindu Nationalism." _Bulletin for Concerned Asian Scholars_ 25, no. 4 (1992): 25-36.
@@ -411,7 +414,7 @@ Iconic representations: Sexuality and gender in popular culture
 {{< tdopen >}}
 Student presentations
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="4" >}}
 
 
 Banerjee, Nirmala. "Whatever Happened to the Dreams of Modernity? The Nehruvian Era and Women's Position." _EPW_ (April 1998): WS 2-7.
