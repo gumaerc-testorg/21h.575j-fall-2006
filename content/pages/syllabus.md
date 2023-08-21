@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This syllabus section provides the course description and goals, and
+  information on meeting times, requirements, grading, class participation and preparation,
+  late submission policy, a statement on academic dishonesty, and the schedule of
+  course topics and key dates.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -73,7 +77,7 @@ Class participation
 
 {{< tableclose >}}
 
-Please see [assignments]({{< baseurl >}}/pages/assignments) for more detailed descriptions of the above.
+Please see {{% resource_link 8bf69dae-76dc-5e55-be14-a064db518549 "assignments" %}} for more detailed descriptions of the above.
 
 Class Participation and Preparation
 -----------------------------------
