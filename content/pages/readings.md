@@ -41,7 +41,7 @@ Mohanty, Chandra Talpade. "Under Western Eyes: Feminist Scholarship and Colonial
 
 Scott, Joan. "Gender: A Useful Category of Historical Analysis." *American Historical Review* 91, no. 5 (December 1986): 1053-1075.
 
-Film: [*Dadi's Family*](http://www.der.org/films/dadis-family.html). Produced by James MacDonald, Rina Gill, and Michael Camerini, 1981.
+Film: {{% resource_link "8273fd13-0b23-4828-9cf7-69efcbda9e41" "*Dadi's Family*" %}}. Produced by James MacDonald, Rina Gill, and Michael Camerini, 1981.
 
 Begin reading a contemporary South Asian newspaper. Please see {{% resource_link "d69e661b-f808-d3d8-6acd-da24a7a88a4e" "related resources" %}} for a listing of online newspapers.
 
@@ -63,7 +63,7 @@ Women as mothers, daughters, and daughters in law
 
 Selections from The Laws of Manu. Translated by Wendy Doniger O'Flaherty and Brian K. Smith. New York, NY: Penguin Books, 1991. ISBN: 9780140445404.
 
-Selections from [Gulbadan, Humayunama: Memoir of a Mughal Princess](http://www.columbia.edu/itc/mealac/pritchett/00litlinks/gulbadan/part06.html).
+Selections from {{% resource_link "63ea9578-3dc8-4e6f-8f18-838ca1ab1f42" "Gulbadan, Humayunama: Memoir of a Mughal Princess" %}}.
 
 Musallam, B. F. *Sex and Society in Islam: Birth Control before the Nineteenth Century*. New York, NY: Cambridge University Press, 1983, pp. 10-38. ISBN: 9780521248747.
 
@@ -73,7 +73,7 @@ Kozlowski, Gregory C. "Private Lives and Public Piety: Women and the Practice of
 
 Talbot, Cynthia. "Rudrama-devi, the Female King: Gender and Political Authority in Medieval India." In *Syllables of Sky: Studies in South Indian civilization. Edited by David Dean Shulman and Velceru Narayanaravu*. New York, NY: Oxford University Press, 1996, pp. 391-430. ISBN: 9780195635492.
 
-Film: [*Wedding of the Goddess*](http://www.maxwell.syr.edu/moynihan_sac.aspx?id=36507226859&terms=Wedding+of+the+Goddess), 1976.
+Film: {{% resource_link "03fb591f-cec7-4d67-8943-b1e64e3bea70" "*Wedding of the Goddess*" %}}, 1976.
 
 Begin Reading A *Comparison Between Men and Women*. Please see {{% resource_link "101cce6d-c15c-00b4-0f45-693257fd886c" "study materials" %}} for discussion questions related to this reading.
 
@@ -93,9 +93,9 @@ Divinities and devotees
 Defining women: Social reforms
 {{< tdclose >}}{{< tdopen rowspan="4" >}}
 
-Selections from Bentinck's [Minute on the Suppression of Sati](http://chnm.gmu.edu/wwh/p/103.html), 1829.
+Selections from Bentinck's {{% resource_link "3325cdc2-990f-4b52-a094-b9483897d20c" "Minute on the Suppression of Sati" %}}, 1829.
 
-Selections from the [writings of Raja Rammohan Roy](http://en.wikipedia.org/wiki/Ram_Mohan_Roy).
+Selections from the {{% resource_link "63e00ff7-597d-4ccb-8258-d8a16fdfc277" "writings of Raja Rammohan Roy" %}}.
 
 Selections from Sarasyati, Pandita Ramabai. *The High Caste Hindu Woman*. New York, NY: Kessinger Publishing, LLC, 2007. ISBN: 9781430492382.
 
@@ -139,7 +139,7 @@ Banerjee, Nirmala. "Working Women in Colonial Bengal: Modernization and Marginal
 
 *Women in Modern India*. Chapters 3 and 6.
 
-Film: [*Home and the World*](http://www.imdb.com/title/tt0087328/). Directed by Satyajit Ray, 1984.
+Film: {{% resource_link "7741d222-ab86-478f-bc93-7a13df191bf0" "*Home and the World*" %}}. Directed by Satyajit Ray, 1984.
 
 Begin Reading *The River Churning*.
 
@@ -213,7 +213,7 @@ Era of women leader
 
 Anderson, Nancy Fix. "Benazir Bhutto and Dynastic Politics: Her Father's Daughter, Her People's Sister." In *Women as National Leaders*. Edited by Michael A. Genovese. Newbury Park, CA: Sage Publications, 1992, pp. 41-69. ISBN: 9780803943384.
 
-Khan, Nighat Said. "Up against the state: The women's movement in Pakistan and its implications for the global women's movement." ([PDF](http://www.globalissues.org/article/166/womens-rights))  
+Khan, Nighat Said. "Up against the state: The women's movement in Pakistan and its implications for the global women's movement." ({{% resource_link "2d2c8b58-e519-42e3-a3d3-0ec399f8832c" "PDF" %}})  
 Available from the Centre for Women's Studies in Education at the Ontario Institute for Studies in Education, University of Toronto.
 
 Basu, Amrita. "Feminism Inverted: The Real Women and Gendered Imagery of Hindu Nationalism." *Bulletin for Concerned Asian Scholars* 25, no. 4 (1992): 25-36.
@@ -222,7 +222,7 @@ D'Costa, Bina. "Coming to Terms with the Past in Bangladesh: Naming Women's Trut
 
 Chowdhury, Prem. "Lustful Women, Elusive Lovers: Identifying Males as Objects of Female Desire." In *Re-Searching Indian Women*. Edited by Vijaya Ramaswamy. New Delhi, India: Manohar, 2003, pp. 175-208. ISBN: 9788173044960.
 
-Film: [*Father, Son and Holy War*](http://www.patwardhan.com/films/fathersonholywar.htm). Directed by Anand Patwardhan, 1994.
+Film: {{% resource_link "682aea4d-44bb-4217-88ae-4b7c67ce183e" "*Father, Son and Holy War*" %}}. Directed by Anand Patwardhan, 1994.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 21
@@ -246,7 +246,7 @@ Kumar, Radha. "From Chipko to Sati: The Contemporary Indian Women's Movement." I
 
 Jahan, Roushan. "Men in Seclusion, Women in Public: Rokeya's Dream and Women's Struggles in Bangladesh." Chapter 8 in *Women in Modern India.* Edited by Basu. pp. 87-109.
 
-Film: *When Women Unite*: *The Story of an Uprising*. Directed by Shabnam Virmani, 2003. (Women's Anti-Arrack Struggle in India). Read an [article](https://southasiaoutreach.wisc.edu/when-women-unite-the-story-of-an-uprising/) about the film from the online newspaper *The Hindu*.
+Film: *When Women Unite*: *The Story of an Uprising*. Directed by Shabnam Virmani, 2003. (Women's Anti-Arrack Struggle in India). Read an {{% resource_link "fbe0f720-97b2-4d9a-b303-c5652e85024a" "article" %}} about the film from the online newspaper *The Hindu*.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 24
